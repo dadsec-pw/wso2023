@@ -15,6 +15,6 @@ Wso Shell Latest 2023
 
 ## Shell Pass: dadsec
 
-![1](https://user-images.githubusercontent.com/122516581/215315524-03a60b1b-62f4-45ca-9329-18bc4622e0d7.png)
-![2](https://user-images.githubusercontent.com/122516581/215315532-dbe9f1b8-6765-41b9-a50d-ea50a0d5fcbf.png)
-![3](https://user-images.githubusercontent.com/122516581/215315535-77e8f29c-81e1-425f-a68a-e0799961af7c.png)
+![1](https://user-images.githubusercontent.com/122516581/221038461-eaff298d-210f-4e96-b4fe-ba705fe37f63.png)
+![2](https://user-images.githubusercontent.com/122516581/221038479-ad2e0a8f-e7c2-48ae-bfd9-237a345f028f.png)
+![3](https://user-images.githubusercontent.com/122516581/221038495-7e28fdc2-a02d-447f-bf18-1c01bc675cdb.png)
